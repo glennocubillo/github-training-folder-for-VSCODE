@@ -1,0 +1,33 @@
+Microsoft Windows [Version 10.0.19042.1052]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Gigz\Desktop\github training folder for VSCODE>code .
+
+C:\Users\Gigz\Desktop\github training folder for VSCODE>git config --global user.email "glennocubillo101@gmail.com"
+
+C:\Users\Gigz\Desktop\github training folder for VSCODE>git config --global user.name "glennocubillo"
+
+C:\Users\Gigz\Desktop\github training folder for VSCODE>git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.email=glennocubillo101@gmail.com
+user.name=glennocubillo
+
+C:\Users\Gigz\Desktop\github training folder for VSCODE>
+
+
+cls is clear command
+
+git --version to check if you have git or what git version you have
