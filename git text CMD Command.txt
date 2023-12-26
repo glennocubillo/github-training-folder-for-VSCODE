@@ -31,3 +31,16 @@ C:\Users\Gigz\Desktop\github training folder for VSCODE>
 cls is clear command
 
 git --version to check if you have git or what git version you have
+
+git init is to initialized my git repository
+
+git status is to check file or code you created like html, css etc in the VSCODE...
+
+git add . to add the intire file to the staging area
+
+git add . is to add whole file
+
+git add indix.html is only to add that one file the index.html
+
+git commit -m "Fixed the Bug #74" meaning you can write a messages 
+
