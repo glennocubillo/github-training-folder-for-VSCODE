@@ -44,3 +44,32 @@ git add indix.html is only to add that one file the index.html
 
 git commit -m "Fixed the Bug #74" meaning you can write a messages 
 
+
+MY GIT HUB KEY
+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
+
+github.com/new to create new repository
+
+to connect or attach our remote repository to our local system
+git remote and origin https://github.com/glennocubillo/github-training-folder-for-VSCODE.git
+
+git remote add origin https://github.com/glennocubillo/github-training-folder-for-VSCODE.git
+git branch -M main
+git branch
+git push -u origin main
+
+THE IMPORTANT COMMAND THAT YOU MUST APPLY IN CMD AFTER YOU MODIFIED YOUR CODE IS BELOW
+git log
+git status
+git add index.html (index.html- is your code updated).
+git commit -m "MODIFIED INDEX" (is the message you want to put in what you have change or updated in your code)
+git push origin main
+git log
+git status
+git log --oneline
+
+ 
+
+
+
+
