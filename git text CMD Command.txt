@@ -70,6 +70,8 @@ git log
 git status
 git log --oneline
 git add .
+git diff is to get the differences of the last commit you do/Unsay last nimo gibuhat
+git diff is also use for spicific file example git diff 521658c aa63024 (you spicified 2 files)
 
 
 SAMPLE COMMAND IF YOU ADD FILES IN git commit -m ""
